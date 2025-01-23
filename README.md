@@ -6,5 +6,5 @@
 - Leveraged CatBoost’s advanced machine learning capabilities to analyze team ratings and match outcomes, achieving 60.14% accuracy—outperforming Logistic Regression, Random Forest, and Gradient Boosting models.
 - Demonstrated consistent profitability against market odds using pi-ratings integrated with CatBoost, showcasing improved predictive strength over traditional systems
 like ELO ratings
-Results:
-![](images/results.png)
+## Results:
+![](results.png)
